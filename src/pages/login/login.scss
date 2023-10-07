@@ -1,0 +1,82 @@
+ .login{
+    height: 100vh;
+    background-color: rgb(167, 162, 234);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .card{
+        display:flex;
+        width: 50%;
+        border-radius: 12px;
+        min-height: 600px;
+        overflow: hidden;
+        .left{
+            flex:1;
+            background:linear-gradient(rgba(30, 40, 65, 0.792),rgba(0, 0, 0, 0.765)),url("https://images.pexels.com/photos/3228727/pexels-photo-3228727.jpeg?auto=compress&cs=tinysrgb&w=1600") center;
+            background-size: cover;
+            padding: 50px;
+            display: flex;
+            flex-direction: column;
+            color: white;
+            gap:30px;
+            h1{
+                font-size: 100px;
+                line-height: 100px;
+                margin: 0;
+
+            }
+            p{}
+            span{
+                font-size: 14px;
+            }
+            button{
+                width: 50%;
+                padding: 10px;
+                border: none;
+                background-color: white;
+                color: rgb(0, 0, 45);
+                font-weight: bold;
+                cursor: pointer;
+                border-radius: 12px;
+            }
+            button:hover{
+                background-color: rgb(183, 183, 183);
+            }
+        }
+        .right{
+            flex:1;
+            padding: 50px;
+            display: flex;
+            flex-direction: column;
+            background-color: white;
+            justify-content: center;
+            gap:50px;
+            h1{
+                color: rgb(86, 86, 86);
+            }
+            form{
+                display: flex;
+                flex-direction: column;
+                gap:30px;
+                input{
+                    border: none;
+                    border-bottom: 1px solid rgb(43, 43, 65);
+                    padding: 20px 10px;
+                }
+                button{
+                    width: 50%;
+                    padding: 10px;
+                    border: none;
+                    background-color: rgb(49, 46, 97);
+                    cursor: pointer;
+                    color: white;
+                    font-weight: bold;
+                    border-radius: 12px;
+                }
+                button:hover{
+                    background-color: rgb(53, 51, 107);
+                }
+            }
+        }
+    }
+ }
