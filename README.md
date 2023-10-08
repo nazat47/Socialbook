@@ -1,3 +1,4 @@
 A responsive UI of a social media platform developed using react
-![Screenshot (85)](https://github.com/nazat47/Socialbook/assets/77552644/36e0043a-f708-4a98-b260-e1029c45f5f2)
-![Screenshot (86)](https://github.com/nazat47/Socialbook/assets/77552644/1b5f6902-3b4f-44d3-8775-3b8ea2d390f4)
+![Screenshot (87)](https://github.com/nazat47/Socialbook/assets/77552644/a0e36c69-8696-4844-b992-532e8468a0b8)
+![Screenshot (88)](https://github.com/nazat47/Socialbook/assets/77552644/8792bd68-fb71-4111-87bd-bac696d1efde)
+
