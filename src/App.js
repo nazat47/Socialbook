@@ -52,7 +52,6 @@ function App() {
         </Route>
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
-     //   <Route path="*" element={<NotFound />}/>
       </Route>
     )
   );
